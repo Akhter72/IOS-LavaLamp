@@ -13,6 +13,7 @@
 		042F7A562A5D7E3E006ADF7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042F7A542A5D7E3E006ADF7F /* Main.storyboard */; };
 		042F7A582A5D7E40006ADF7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042F7A572A5D7E40006ADF7F /* Assets.xcassets */; };
 		042F7A5B2A5D7E40006ADF7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042F7A592A5D7E40006ADF7F /* LaunchScreen.storyboard */; };
+		0436410B2A61445A00CC3372 /* CustomAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0436410A2A61445A00CC3372 /* CustomAnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		042F7A572A5D7E40006ADF7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		042F7A5A2A5D7E40006ADF7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		042F7A5C2A5D7E40006ADF7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0436410A2A61445A00CC3372 /* CustomAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				042F7A4E2A5D7E3E006ADF7F /* AppDelegate.swift */,
 				042F7A502A5D7E3E006ADF7F /* SceneDelegate.swift */,
 				042F7A522A5D7E3E006ADF7F /* ViewController.swift */,
+				0436410A2A61445A00CC3372 /* CustomAnimationView.swift */,
 				042F7A542A5D7E3E006ADF7F /* Main.storyboard */,
 				042F7A572A5D7E40006ADF7F /* Assets.xcassets */,
 				042F7A592A5D7E40006ADF7F /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				042F7A532A5D7E3E006ADF7F /* ViewController.swift in Sources */,
 				042F7A4F2A5D7E3E006ADF7F /* AppDelegate.swift in Sources */,
+				0436410B2A61445A00CC3372 /* CustomAnimationView.swift in Sources */,
 				042F7A512A5D7E3E006ADF7F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
